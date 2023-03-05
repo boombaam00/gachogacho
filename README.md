@@ -5,7 +5,7 @@ patt se
 
 2.[dekh mat simple](https://docs.google.com/document/d/13AGFSR2hmarj-e0vX3XrbcO2fisGG5BEC5ot9kkRidk/edit?usp=sharing "https://docs.google.com/document/d/13AGFSR2hmarj-e0vX3XrbcO2fisGG5BEC5ot9kkRidk/edit?usp=sharing")
 
-3.[multiple chup chap]
+3.[multiple chup chap](https://docs.google.com/document/d/1r0YlndG9RDVCWgii7pROnC2b0ELDSaLOGK7FEAsw9vk/edit?usp=sharing)
 
 4.[lemme mark it for you]
 
@@ -22,3 +22,6 @@ patt se
 10.[k means kangaroo]
 
 11.[it's time for series]
+
+
+[some text](https://classroom.google.com/u/0/w/MTk1NzE5NzAwNjUx/tc/MjU5NTQyNTI4MjM1)
