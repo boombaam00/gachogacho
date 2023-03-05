@@ -24,4 +24,4 @@ patt se
 11.[it's time for series]
 
 
-[some text]([https://classroom.google.com/u/0/w/MTk1NzE5NzAwNjUx/tc/MjU5NTQyNTI4MjM1](https://drive.google.com/drive/folders/1luyq3HXWZlOZevX6t6nKcrpfoHrDSWkD?usp=sharing))
+[some text](https://classroom.google.com/u/0/w/MTk1NzE5NzAwNjUx/tc/MjU5NTQyNTI4MjM1](https://drive.google.com/drive/folders/1luyq3HXWZlOZevX6t6nKcrpfoHrDSWkD?usp=sharing)
