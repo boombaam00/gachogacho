@@ -7,7 +7,7 @@ patt se
 
 3.[multiple chup chap](https://docs.google.com/document/d/1r0YlndG9RDVCWgii7pROnC2b0ELDSaLOGK7FEAsw9vk/edit?usp=sharing)
 
-4.[lemme mark it for you]
+4.[lemme markdown it for you]
 
 5.[that's logical indeed]
 
