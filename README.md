@@ -9,19 +9,19 @@ patt se
 
 4.[lemme markdown it for you]
 
-5.[that's logical indeed]
+5.[that's logical indeed](https://docs.google.com/document/d/1EdigulymiE1mJE4KSMjvyvWoe2z-GqSuDhn2EZ30FHs/edit)
 
-6.[stop deriving your hypothesis]
+6.[stop deriving your hypothesis](https://docs.google.com/document/d/1wtzlZL6jz9YsPt8z8bNPsBd_GzEVwLfIqtONLoYePY4/edit)
 
-7.[Do This Alright]
+7.[Do This Alright](https://docs.google.com/document/d/1hlqDafE7KOcQmYpXKM72k724CkYSCdzfU2KHmX8A6Oo/edit)
 
-8.[Problem Child Andy]
+8.[Problem Child Andy](https://docs.google.com/document/d/1fNOBVa6cvNPMDUaKMZdTyOAJyIwJJwXvqC4WB1vsNTk/edit)
 
 9.[mango]
 
-10.[k means kangaroo]
+10.[k means kangaroo](https://docs.google.com/document/d/1eJRg5Fz-EiPXoaVDtH5jAojIzsJH8hJWKhpezO3LjQU/edit)
 
-11.[it's time for series]
+11.[it's time for series](https://docs.google.com/document/d/1bj-FvOqUQTMfudTbjeQI3EkC23iEd53lMexQZU9LIbY/edit)
 
 
 [some text](https://drive.google.com/drive/folders/1luyq3HXWZlOZevX6t6nKcrpfoHrDSWkD?usp=sharing)
