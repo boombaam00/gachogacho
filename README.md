@@ -1,9 +1,9 @@
 # gacho gacho
 patt se
 
-1.[pre sata muchhi](https://docs.google.com/document/d/1_nRwdZe7ozVxsWnDu10KxQhS24ROkRI7MdXCm6uVpOY/edit?usp=sharing)
+1.[linear convolution](https://docs.google.com/document/d/1_nRwdZe7ozVxsWnDu10KxQhS24ROkRI7MdXCm6uVpOY/edit?usp=sharing)
 
-2.[dekh mat simple](https://docs.google.com/document/d/1tzs93omR-GjnQNp4pLkXm5sWOYlzVHWBOB6-_vN3SwA/edit?usp=sharing)
+2.[circular convolution](https://docs.google.com/document/d/1tzs93omR-GjnQNp4pLkXm5sWOYlzVHWBOB6-_vN3SwA/edit?usp=sharing)
 
 3.[image quantization](https://docs.google.com/document/d/1W-uoaa2Frm40HwM4viDcdQSe1EhJiQVhePZibsGxXqc/edit?usp=sharing)
 
